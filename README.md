@@ -10,7 +10,8 @@
 
 ADaM in R Asset Library
 
-## How VX team we are making progress
+## VX team we are making progress!!
+## Let's make this happen.
 
 To provide an open source, modularized toolbox that enables the pharmaceutical programming community
 to develop ADaM datasets in R.
