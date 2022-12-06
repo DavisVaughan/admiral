@@ -12,6 +12,7 @@ ADaM in R Asset Library
 
 ## VX team we are making progress!!
 ## Let's make this happen.
+## Yamina make a committ!
 
 To provide an open source, modularized toolbox that enables the pharmaceutical programming community
 to develop ADaM datasets in R.
